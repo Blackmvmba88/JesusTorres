@@ -1,6 +1,6 @@
-# 🌈 Reactive Audio Waveform - JesusGabrielTorres
+# 🌈 JesusGabrielTorres: Reactive Audio Waveform
 
-Una visualización de onda sinusoidal reactiva al audio en tiempo real, desarrollada con Python, NumPy y Matplotlib. El sistema incluye un control automático de ganancia (AGC/PID) para normalizar la amplitud visual sin importar el volumen de entrada.
+**JesusGabrielTorres** es una visualización de onda sinusoidal reactiva al audio en tiempo real, desarrollada con Python, NumPy y Matplotlib. El sistema incluye un control automático de ganancia (AGC/PID) para normalizar la amplitud visual sin importar el volumen de entrada.
 
 ## ✨ Características
 
@@ -32,7 +32,7 @@ Este proyecto utiliza un `Makefile` para simplificar la gestión.
 
 Usa los siguientes comandos `make` para gestionar el proyecto:
 
-- `make run`: Inicia la visualización reactiva.
+- `make run`: Inicia la visualización **JesusGabrielTorres**.
 - `make doctor`: Ejecuta el diagnóstico de errores y verifica dependencias.
 - `make git-update`: Sube cambios rápidos a GitHub.
 - `make clean`: Limpia archivos temporales y el entorno virtual.
@@ -46,7 +46,7 @@ Usa los siguientes comandos `make` para gestionar el proyecto:
 
 ## 👤 Autor
 
-**JesusGabrielTorres**
+**Iyari Cancino Gomez**
 
 ---
-Desarrollado con ⚡️ y precisión para una experiencia de audio visual inmersiva.
+Desarrollado con ⚡️ y precisión por **Iyari Cancino Gomez** para el sistema **JesusGabrielTorres**.
